@@ -25,6 +25,9 @@ landmarks_list = {
     },
     "Brooklyn Bridge" => {
       :year_completed => 1883
+    },
+    "BQE" => {
+      :year_completed => 1961
     }
   }
 
